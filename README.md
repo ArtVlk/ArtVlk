@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtVlk&hide=HTML,CSS&theme=buefy&layout=donut)
+![ArtVlk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtVlk&theme=buefy&show_icons=true)
 
 <!--
 **ArtVlk/ArtVlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
